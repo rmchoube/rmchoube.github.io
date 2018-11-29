@@ -2859,6 +2859,27 @@ body {
     -webkit-flex-basis: initial !important;
   }
 }
+.cid-raLmPPOGjr {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-raLmPPOGjr .image-block {
+  margin: auto;
+}
+.cid-raLmPPOGjr figcaption {
+  position: relative;
+}
+.cid-raLmPPOGjr figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-raLmPPOGjr .image-block {
+    width: 100% !important;
+  }
+}
 .cid-raA4KLRZcJ {
   padding-top: 0px;
   padding-bottom: 30px;
