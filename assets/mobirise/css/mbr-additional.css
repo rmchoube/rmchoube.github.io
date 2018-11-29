@@ -2859,27 +2859,26 @@ body {
     -webkit-flex-basis: initial !important;
   }
 }
-.cid-raLnXG7M9d {
+.cid-raLuRGkCCc {
   background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
 }
-.cid-raLnXG7M9d .image-block {
+.cid-raLuRGkCCc .image-block {
   margin: auto;
+  width: 100% !important;
 }
-.cid-raLnXG7M9d .mbr-figure {
+.cid-raLuRGkCCc .mbr-figure {
   margin: 0 auto;
 }
-.cid-raLnXG7M9d figcaption {
+.cid-raLuRGkCCc figcaption {
   position: relative;
 }
-.cid-raLnXG7M9d figcaption div {
+.cid-raLuRGkCCc figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-raLnXG7M9d .image-block {
+  .cid-raLuRGkCCc .image-block {
     width: 100% !important;
   }
 }
