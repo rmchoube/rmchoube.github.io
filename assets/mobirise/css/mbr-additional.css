@@ -2859,30 +2859,6 @@ body {
     -webkit-flex-basis: initial !important;
   }
 }
-.cid-raA3zsj3ut {
-  background: #ffffff;
-  padding-top: 30px;
-  padding-bottom: 30px;
-}
-.cid-raA3zsj3ut .image-block {
-  margin: auto;
-}
-.cid-raA3zsj3ut .mbr-figure {
-  margin: 0 auto;
-}
-.cid-raA3zsj3ut figcaption {
-  position: relative;
-}
-.cid-raA3zsj3ut figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-raA3zsj3ut .image-block {
-    width: 100% !important;
-  }
-}
 .cid-raA4KLRZcJ {
   padding-top: 0px;
   padding-bottom: 30px;
