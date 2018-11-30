@@ -1,6 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Julius+Sans+One:400);
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Gudea:400,400i,700);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
 
@@ -22,11 +21,11 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Julius Sans One', sans-serif;
-  font-size: 3.6rem;
+  font-family: 'Gudea', sans-serif;
+  font-size: 2.625rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.76rem;
+  font-size: 4.2rem;
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
@@ -36,11 +35,11 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-family: 'Gudea', sans-serif;
+  font-size: 0.9rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.44rem;
 }
 .display-5 {
   font-family: 'Gudea', sans-serif;
@@ -50,7 +49,7 @@ body {
   font-size: 2.24rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Gudea', sans-serif;
   font-size: 0.9rem;
 }
 .display-7 > .mbr-iconfont {
@@ -63,9 +62,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.88rem;
-    font-size: calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.1rem;
+    font-size: calc( 1.5687499999999999rem + (2.625 - 1.5687499999999999) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.5687499999999999rem + (2.625 - 1.5687499999999999) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -73,9 +72,9 @@ body {
     line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.72rem;
+    font-size: calc( 0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.12rem;
@@ -660,7 +659,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Gudea', sans-serif;
   font-size: 0.9rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1815,29 +1814,29 @@ body {
     width: 100% !important;
   }
 }
-.cid-ra9x353XrE {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #f9f9f9;
+.cid-raVzxgz9q2 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
-.cid-ra9x353XrE .mbr-text {
-  color: #073b4c;
-  text-align: left;
-}
-.cid-ra9x353XrE h4 {
-  text-align: center;
-}
-.cid-ra9x353XrE p {
-  text-align: center;
-}
-.cid-ra9x353XrE .card-img span {
-  font-size: 96px;
+.cid-raVzxgz9q2 .line {
+  background-color: #149dcc;
   color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
-.cid-ra9x353XrE .card-title,
-.cid-ra9x353XrE .card-img {
+.cid-raVzxgz9q2 .section-text {
+  padding: 2rem 0;
   color: #394750;
-  text-align: left;
+}
+.cid-raVzxgz9q2 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-raVzxgz9q2 .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-ra5OirkPWu {
   padding-top: 60px;
