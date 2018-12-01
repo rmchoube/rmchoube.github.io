@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -20,9 +20,9 @@
         "display5Font": "Gudea",
         "display5Size": "1.4",
         "display7Font": "Gudea",
-        "display7Size": "0.9",
+        "display7Size": "1",
         "display4Font": "Gudea",
-        "display4Size": "0.9",
+        "display4Size": "1",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
