@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2604,7 +2604,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>PROBLEM STATEMENT </b></p><p><b>&nbsp;</b>The average active vocabulary of an adult needs &nbsp;around 20,000 to 40,000 words, building vocabulary is long and tedious processes many folks give up as the whole processes is not fun and engaging. there is a need to build vocabulary for people &nbsp;below average vocabulary as it is one of the major factor to progress in carrer.</p><p><b><br></b></p><p><b><br></b><b style=\"font-size: 0.9rem;\">PROBLEM SOLUTION</b></p><p></p><div>\n</div><div>“I believe creating an application that allows users to customize and personalize for learning new words and phases through definition, context and usage, at there own pace in fun and easy way”&nbsp;</div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>PROBLEM STATEMENT </b></p><p>The average active vocabulary of an adult needs &nbsp;around 20,000 to 40,000 words, building vocabulary is long and tedious processes many folks give up as the whole processes is not fun and engaging. There is a need to build vocabulary for people below average vocabulary as it is one of the major factors to progress in career.</p><p><b><br></b></p><p><b><br></b><b style=\"font-size: 0.9rem;\">PROBLEM SOLUTION</b></p><p></p><div>\n</div><div>“I believe creating an application that allows users to customize and personalize for learning new words and phases through definition, context and usage, at there own pace in fun and easy way”&nbsp;</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "raL5OTo947",
           "_anchor": "content1-35",
           "_protectedParams": [],
